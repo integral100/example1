@@ -1,1 +1,3 @@
 app.js
+app*
+!app.txt
